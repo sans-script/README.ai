@@ -4,7 +4,7 @@
 
 Este aplicativo Flet utiliza o modelo de linguagem avançada Gemini Pro da Google para criar README's com base em seus prompts.
 
-Mas por que não usar o próprio site do Gemini para gerar o código Markdown? Muitos sites populares de IA já entregam respostas renderizadas em Markdown. No entanto, ao solicitar o código Markdown para elaborar um README, o modelo pode não oferecer exatamente o que você deseja. O código fornecido pode vir com a renderização do MarkDown, causando confusão. Como ilustrado na imagem a seguir, o modelo pode falhar em fornecer o código completo, resultando em uma renderização incompleta.
+Mas por que não usar o próprio site do Gemini para gerar o código Markdown? Muitos sites populares de IA já entregam respostas renderizadas em Markdown. No entanto, ao solicitar o código Markdown para elaborar um README, o modelo pode não oferecer exatamente o que você deseja. O código fornecido pode vir com a renderização já em Markdown, causando confusão. O modelo também pode falhar em fornecer o código completo, resultando em uma renderização incompleta.
 
 
 ![Captura de tela 2024-05-11 110443](https://github.com/sans-script/README.ai/assets/84801905/16463ffd-9a98-401c-a33a-6c6a30c5d130)
