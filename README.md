@@ -7,7 +7,7 @@ Este aplicativo Flet utiliza o modelo de linguagem avançada Gemini Pro da Googl
 Mas por que não usar o próprio site do Gemini para gerar o código Markdown? Muitos sites populares de IA já entregam respostas formatadas em Markdown. No entanto, ao solicitar o código Markdown para elaborar um README, o modelo pode não oferecer exatamente o que você deseja. O código fornecido pode vir com a renderização do MarkDown, causando confusão. Como ilustrado na imagem a seguir, o modelo pode falhar em fornecer o código completo, resultando em uma renderização incompleta.
 
 
-![Captura de tela 2024-05-11 110443](https://github.com/sans-script/README.ai/assets/84801905/88466c36-d01b-428d-abcd-e3a6f3d19dac)
+![Captura de tela 2024-05-11 110443](https://github.com/sans-script/README.ai/assets/84801905/16463ffd-9a98-401c-a33a-6c6a30c5d130)
 **Fig 1.** AI sendo AI.
 
 Você pode obrigar o modelo a fornecer exatamente o código Markdown que você deseja. Boa sorte ao tentar fazer isso, pode levar um certo tempo. Mesmo copiando o texto já renderizado, ele não será idêntico ao texto Markdown original antes da renderização.
@@ -24,7 +24,7 @@ O README.ai é uma solução rápida para quem quer gerar README's sem dor de ca
 - **Edição do README:** Permite editar o README gerado em uma área de texto dedicada.
 - **Atualização dinâmica:** As alterações na área de texto editável são refletidas na visualização do README em tempo real.
 
-![Captura de tela 2024-05-11 113613](https://github.com/sans-script/README.ai/assets/84801905/a61d1cb2-ea36-4f90-812c-9303edd9959e)
+![Captura de tela 2024-05-11 113613](https://github.com/sans-script/README.ai/assets/84801905/d18af2b7-e0be-420f-879e-5a67f01c2833)
 **Fig 2.** Interface do editor
 
 ### Como usar:
@@ -35,7 +35,7 @@ O README.ai é uma solução rápida para quem quer gerar README's sem dor de ca
 4. **Aproveite seu novo README!**
 
 
-![Apresentação2](https://github.com/sans-sc ript/README.ai/assets/84801905/eeeb441e-9929-4295-b910-88d3f50c0b84)
+![Apresentação2](https://github.com/sans-script/README.ai/assets/84801905/e37dda9d-3a5a-40dc-8776-8a6eb29d3eda)
 **Fig 3.** As respostas brotam na tela do editor como se fosse mágica ✨ 
 
 ### Dependências:
