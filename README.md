@@ -41,7 +41,7 @@ O README.ai é uma solução rápida para quem quer gerar README's sem dor de ca
 ### Dependências:
 
 - `flet`: Para construir a interface do usuário. Visite [Flet for Python Docs](https://pypi.org/project/flet/) para mais informações.
-- `google.generativeai`: Para acessar o modelo Gemini Pro. Execute ``
+- `google.generativeai`: Para acessar o modelo Gemini Pro.
 - `dotenv e os`: Para gerenciar chaves de API
 
 ### Configuração:
